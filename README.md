@@ -1,5 +1,8 @@
-*This was an academic project implemented for the Deep Learning Using Media Understanding course.
-*Team: Ujjwal Gutta and Ganesh Vanama
+This was an academic project implemented for the Deep Learning Using Media Understanding course.
+
+Team: 
+     * Ujjwal Gutta
+     * Ganesh Vanama
 
 # Pneumonia-Detection
 * Analyze chest xrays for diagonising pneumonia and locate the regions with heat map.
