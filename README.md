@@ -1,3 +1,6 @@
+This was an academic project implemented for the Deep Learning Using Media Understanding course.
+Team: Ujjwal Gutta and Ganesh Vanama
+
 # Pneumonia-Detection
 * Analyze chest xrays for diagonising pneumonia and locate the regions with heat map.
 * In this work, I used a Transfer Learning Approach to diagnose Pneumonia, by fine-tuning the CheXNet a densenet model developed by [Stanford ML Group](https://stanfordmlgroup.github.io/projects/chexnet/)
